@@ -26,20 +26,20 @@
 The Head of Marketing plans to run a campaign for the remainder of the year and seeks to identify the top YouTube channels to effectively reach end users. 
 -  To achieve this objective
 Create a dashboard that provides insight into the top UK YouTubers in 2024 to include their
-*Subscriber count
-*Total views
-*Total videos, and
-*Engagement metrics
+* Subscriber count
+* Total views
+* Total videos, and
+* Engagement metrics
 This will guide the marketing team to make informed decisions about the best performing YouTube channels to collaborate with for their marketing campaigns.
 ## User story
 As the Head of Marketing, I want to use a dashboard that analyzes YouTube channel data in the UK. This dashboard should allow us to identify the top-performing channels based on metrics like subscriber base and average views. With this information, I can make informed decisions about which YouTubers are right to collaborate with, thereby maximizing the effectiveness of each marketing campaign.
 # Data source
 -  What data is needed to achieve our objective?
 We need data on the top UK youtubers in 2024 that includes their.
-*Channel names
-*Total subscribers
-*Total views
-*Total videos uploaded  
+* Channel names
+* Total subscribers
+* Total views
+* Total videos uploaded  
 
 - Where has the dataset originated from?
 
