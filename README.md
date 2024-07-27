@@ -14,7 +14,7 @@
 	- [Create SQL view](#create-sql-view)
 - [Visualization](#visualization)
 	- [Results](#results)
-	- [Power BI DAX Measures](#powerbi_dax-measures)
+	- [PowerBI DAX Measures](#powerbi-dax-measures)
 - [Analysis](#analysis)
 	- [Findings](#findings)
 	- [Validation](#validation)
@@ -43,7 +43,7 @@ We need data on the top UK youtubers in 2024 that includes their.
 
 ### Where has the dataset originated from?
 
-The data is sourced from Kaggle, the link can be found here *https://github.com/Ugondu/ugondu.github.io/blob/main/assets/datasets/youtube_data_from_python.csv*
+The data is sourced from Kaggle, the link can be found here  [see here to find it.](https://www.kaggle.com/datasets/bhavyadhingra00020/top-100-social-media-influencers-2024-countrywise?resource=download)
 # Data Processing Steps.
 -	Design
 -	Development
@@ -149,7 +149,7 @@ FROM
 
 
 This shows the top YouTubers for 2024 in the UK based on subscription, views, and videos uploaded. 
-### Power BI DAX Measures
+### PowerBI DAX Measures
 ### 1. Total Subscribers (M)
 ```sql
 Total Subscribers (M) = 
@@ -301,7 +301,8 @@ Our analysis will be guided by the following business questions below -
 
 # Conclusion
 ### Recommended Course of Action:
-Based on our analysis, we believe the best channel to establish a long-term partnership to promote the client's products is the Dan Rhodes channel. We'll engage with the marketing client to understand their expectations from this collaboration. If we successfully meet the expected milestones, we'll consider future partnerships with the DanTDM, Mister Max, and NoCopyrightSounds channels.
+Based on our analysis, we believe the best channel to establish a long-term partnership to promote the client's products is the Dan Rhodes channel. We will engage with the marketing client to understand their expectations from this collaboration. 
+If we successfully meet the expected milestones, we will consider future partnerships with the DanTDM, Mister Max, and NoCopyrightSounds channels.
 Steps to Implement the Recommended Decisions Effectively:
 1. Initiate Contact:
 	* Reach out to the teams behind each of these channels, starting with Dan Rhodes.
