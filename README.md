@@ -1,7 +1,7 @@
 # Data Portfolio: Excel to Power BI
 ![image](https://github.com/user-attachments/assets/2ea73bed-e58f-4d65-a490-375ea3d278a7)
 ## Table of Contents.
-- [Objective](#objective)
+-[Objective](#objective)
 - [Data Source](#data-source)
 - [Data Processing Steps](#data-processing-steps)
 - [Design](#design)
