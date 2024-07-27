@@ -24,7 +24,7 @@
 
 # Objective
 The Head of Marketing plans to run a campaign for the remainder of the year and seeks to identify the top YouTube channels to effectively reach end users. 
-- To achieve this objective
+-  To achieve this objective
 Create a dashboard that provides insight into the top UK YouTubers in 2024 to include their
 *Subscriber count
 *Total views
@@ -34,14 +34,14 @@ This will guide the marketing team to make informed decisions about the best per
 ## User story
 As the Head of Marketing, I want to use a dashboard that analyzes YouTube channel data in the UK. This dashboard should allow us to identify the top-performing channels based on metrics like subscriber base and average views. With this information, I can make informed decisions about which YouTubers are right to collaborate with, thereby maximizing the effectiveness of each marketing campaign.
 # Data source
--	What data is needed to achieve our objective?
+-  What data is needed to achieve our objective?
 We need data on the top UK youtubers in 2024 that includes their.
 *Channel names
 *Total subscribers
 *Total views
 *Total videos uploaded  
 
--	Where has the dataset originated from?
+- Where has the dataset originated from?
 
 The data is sourced from Kaggle, the link can be found here *https://github.com/Ugondu/ugondu.github.io/blob/main/assets/datasets/youtube_data_from_python.csv*
 # Data Processing Steps.
@@ -52,7 +52,7 @@ The data is sourced from Kaggle, the link can be found here *https://github.com/
 
 # Design
 ## Dashboard components required
--	What should the dashboard contain based on the requirement provided?
+- What should the dashboard contain based on the requirement provided?
 To understand what it should contain, we need to figure out what questions we need the dashboard to answer:
 1.	Who are the top 10 YouTubers with the most subscribers?
 2.	Which 3 channels have uploaded the most videos?
