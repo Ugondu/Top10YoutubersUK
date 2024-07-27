@@ -1,5 +1,5 @@
 # Data Portfolio: Excel to Power BI
-*https://github.com/Ugondu/ugondu.github.io/blob/main/assets/images/kaggle_to_powerbi.gif*
+[*https://github.com/Ugondu/ugondu.github.io/blob/main/assets/images/kaggle_to_powerbi.gif*](https://github.com/Ugondu/ugondu.github.io/blob/main/assets/images/kaggle_to_powerbi.gif)
 ## Table of Contents.
 - [Objective](#objective)
 - [Data Source](#data-source)
@@ -16,14 +16,14 @@
 	- [Results](#results)
 	- [Power BI DAX Measures](#powerbi_dax-measures)
 - [Analysis](#analysis)
-	-[Findings](#findings)
-	-[Validation](#validation)
-	-[Findings](#findings)
+	- [Findings](#findings)
+	- [Validation](#validation)
+	- [Findings](#findings)
 - [Recommendations](#recommendations)
 - [Conclusion](#conclusion)
 # Objective
 The Head of Marketing plans to run a campaign for the remainder of the year and seeks to identify the top YouTube channels to effectively reach end users. 
--	To achieve this objective
+- To achieve this objective
 Create a dashboard that provides insight into the top UK YouTubers in 2024 to include their
 *Subscriber count
 *Total views
@@ -61,7 +61,7 @@ To understand what it should contain, we need to figure out what questions we ne
 6.	Which 3 channels have the highest subscriber engagement rate per video uploaded?
 ## Template
 - The final dashboard should look like 
-*https://github.com/Ugondu/ugondu.github.io/blob/main/assets/images/dashboard_mockup.png*
+[*https://github.com/Ugondu/ugondu.github.io/blob/main/assets/images/dashboard_mockup.png*](https://github.com/Ugondu/ugondu.github.io/blob/main/assets/images/dashboard_mockup.png)
 -  The data visuals that may be appropriate and effective in answering our business questions:
 1. Table
 2. Treemap
@@ -143,7 +143,7 @@ FROM
 
 - What does the dashboard look like?
 
-*"C:\Users\ADACHUKWU\OneDrive\Desktop\Data Science projects\10alytics\Forage Projects\Top 10 uk youtubers\youtube dashboard.png"*
+[(https://github.com/Ugondu/ugondu.github.io/blob/main/assets/images/youtube%20dashboard.png)](https://github.com/Ugondu/ugondu.github.io/blob/main/assets/images/youtube%20dashboard.png)
 
 This shows the top YouTubers for 2024 in the UK based on subscription, views, and videos uploaded. 
 ### Power BI DAX Measures
@@ -297,7 +297,7 @@ Our analysis will be guided by the following business questions below -
 4. The top 3 channels to form collaborations with are NoCopyrightSounds, DanTDM and Dan Rhodes based on this analysis, because they attract the most engagement on their channels consistently.
 
 # Conclusion
-- Recommended Course of Action:
+### Recommended Course of Action:
 Based on our analysis, we believe the best channel to establish a long-term partnership to promote the client's products is the Dan Rhodes channel. We'll engage with the marketing client to understand their expectations from this collaboration. If we successfully meet the expected milestones, we'll consider future partnerships with the DanTDM, Mister Max, and NoCopyrightSounds channels.
 Steps to Implement the Recommended Decisions Effectively:
 1.Initiate Contact:
