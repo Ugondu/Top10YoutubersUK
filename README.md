@@ -70,13 +70,15 @@ To understand what it should contain, we need to figure out what questions we ne
 3. Scorecards
 4. Horizontal bar chart
 ## Tools 
+
 | Tool | Purpose |
 | --- | --- |
 | Excel | Exploring the data |
 | SQL Server | Cleaning, testing, and analyzing the data |
 | Power BI | Visualizing the data via interactive dashboards |
 | GitHub | Hosting the project documentation and version control |
-| Mokkup AI | Designing the wireframe/template of the dashboard |
+| Mokkup AI | Designing the wireframe/mockup of the dashboard |
+
 # Development
 ### The step-by-step approach in dealing with the business problem;
 1.	Get the data
