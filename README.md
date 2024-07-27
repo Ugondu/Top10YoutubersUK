@@ -1,7 +1,7 @@
 # Data Portfolio: Excel to Power BI
 ![image](https://github.com/user-attachments/assets/2ea73bed-e58f-4d65-a490-375ea3d278a7)
 ## Table of Contents.
--[Objective](#objective)
+- [Objective](#objective)
 - [Data Source](#data-source)
 - [Data Processing Steps](#data-processing-steps)
 - [Design](#design)
@@ -24,7 +24,7 @@
 
 # Objective
 The Head of Marketing plans to run a campaign for the remainder of the year and seeks to identify the top YouTube channels to effectively reach end users. 
--  To achieve this objective
+### To achieve this objective
 Create a dashboard that provides insight into the top UK YouTubers in 2024 to include their
 * Subscriber count
 * Total views
@@ -34,14 +34,14 @@ This will guide the marketing team to make informed decisions about the best per
 ## User story
 As the Head of Marketing, I want to use a dashboard that analyzes YouTube channel data in the UK. This dashboard should allow us to identify the top-performing channels based on metrics like subscriber base and average views. With this information, I can make informed decisions about which YouTubers are right to collaborate with, thereby maximizing the effectiveness of each marketing campaign.
 # Data source
--  What data is needed to achieve our objective?
+### What data is needed to achieve our objective?
 We need data on the top UK youtubers in 2024 that includes their.
 * Channel names
 * Total subscribers
 * Total views
 * Total videos uploaded  
 
-- Where has the dataset originated from?
+### Where has the dataset originated from?
 
 The data is sourced from Kaggle, the link can be found here *https://github.com/Ugondu/ugondu.github.io/blob/main/assets/datasets/youtube_data_from_python.csv*
 # Data Processing Steps.
@@ -52,7 +52,7 @@ The data is sourced from Kaggle, the link can be found here *https://github.com/
 
 # Design
 ## Dashboard components required
-- What should the dashboard contain based on the requirement provided?
+### What should the dashboard contain based on the requirement provided?
 To understand what it should contain, we need to figure out what questions we need the dashboard to answer:
 1.	Who are the top 10 YouTubers with the most subscribers?
 2.	Which 3 channels have uploaded the most videos?
@@ -61,10 +61,10 @@ To understand what it should contain, we need to figure out what questions we ne
 5.	Which 3 channels have the highest views per subscriber ratio?
 6.	Which 3 channels have the highest subscriber engagement rate per video uploaded?
 ## Template
-- The final dashboard should look like 
+### The final dashboard should look like 
 ![image](https://github.com/user-attachments/assets/465bb0aa-0bf6-4054-a996-84f3fbb878cd)
 
--  The data visuals that may be appropriate and effective in answering our business questions:
+### The data visuals that may be appropriate and effective in answering our business questions:
 1. Table
 2. Treemap
 3. Scorecards
@@ -78,7 +78,7 @@ To understand what it should contain, we need to figure out what questions we ne
 | GitHub | Hosting the project documentation and version control |
 | Mokkup AI | Designing the wireframe/template of the dashboard |
 # Development
--	The step-by-step approach in dealing with the business problem;
+### The step-by-step approach in dealing with the business problem;
 1.	Get the data
 2.	Explore the data in Excel
 3.	Load the dataset into the SQL server
@@ -90,15 +90,15 @@ To understand what it should contain, we need to figure out what questions we ne
 ## Data exploration
 To prepare the dataset for analysis, we examine for errors, inconsistencies, whitespaces, and any other issues that may arise during data collection and entry.
 
--	Dataset Overview.
+### Dataset Overview.
 From the dataset it appears that the ‘channel_name’ column contains the channel ID which is separated by ‘@’ sign. 
-## Data cleaning
+### Data cleaning
 To refine and structure the dataset ready for exploratory data analysis, 
 *Extract the channel name from the first column
 *Remove columns not relevant to our analysis
 *Convert each column to the appropriate datatype
 *Remove null and blank columns.
-## Transform the data 
+### Transform the data 
 ```sql
 /*
 # 1. Select the required columns
@@ -143,7 +143,7 @@ FROM
 # Visualization 
 ### Results
 
-- What does the dashboard look like?
+### What does the dashboard look like?
 
 ![image](https://github.com/user-attachments/assets/5f026720-55a7-461f-8f0b-6785c63a653b)
 
@@ -304,18 +304,17 @@ Our analysis will be guided by the following business questions below -
 Based on our analysis, we believe the best channel to establish a long-term partnership to promote the client's products is the Dan Rhodes channel. We'll engage with the marketing client to understand their expectations from this collaboration. If we successfully meet the expected milestones, we'll consider future partnerships with the DanTDM, Mister Max, and NoCopyrightSounds channels.
 Steps to Implement the Recommended Decisions Effectively:
 1. Initiate Contact:
-* Reach out to the teams behind each of these channels, starting with Dan Rhodes.
-* Reason: Building a relationship and setting the groundwork for negotiation.
+	* Reach out to the teams behind each of these channels, starting with Dan Rhodes.
+	* Reason: Building a relationship and setting the groundwork for negotiation.
 2. Negotiate Contracts:
-* Negotiate contracts within the budgets allocated to each marketing campaign.
-* Reason: Ensure financial feasibility and mutual agreement on deliverables and terms.
+	* Negotiate contracts within the budgets allocated to each marketing campaign.
+	* Reason: Ensure financial feasibility and mutual agreement on deliverables and terms.
 3. Launch Campaigns:
-* Kick off the campaigns and track their performances against the KPIs.
-* Reason: Monitor and ensure the campaigns are delivering the expected results.
+	* Kick off the campaigns and track their performances against the KPIs.
+	* Reason: Monitor and ensure the campaigns are delivering the expected results.
 4.Review and Optimize:
-* Review the campaigns' outcomes, gather insights, and optimize based on feedback from converted customers and each channel's audiences.
-* Reason: Continuously improve the campaign's effectiveness and make data-driven decisions for future collaborations.
-
+	* Review the campaigns' outcomes, gather insights, and optimize based on feedback from converted customers and each channel's audiences.
+	* Reason: Continuously improve the campaign's effectiveness and make data-driven decisions for future collaborations.
 
 By following these steps, we can effectively implement the recommended decisions and maximize the success of our marketing campaigns through strategic partnerships with top-performing YouTube channels.
 
