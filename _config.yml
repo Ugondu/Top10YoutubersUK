@@ -1,5 +1,6 @@
-title: ugo
-logo: assets/images/profile_pic.png
+title: My Data Analytics Portfolio
+description: This demonstrates the end to end data processing for a client intrested in running a YouTube campaign in the UK.
+logo:
 show_downloads: True
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
