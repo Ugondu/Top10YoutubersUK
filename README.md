@@ -1,5 +1,5 @@
 # Data Portfolio: Excel to Power BI
-[*https://github.com/Ugondu/ugondu.github.io/blob/main/assets/images/kaggle_to_powerbi.gif*](https://github.com/Ugondu/ugondu.github.io/blob/main/assets/images/kaggle_to_powerbi.gif)
+![image](https://github.com/user-attachments/assets/2ea73bed-e58f-4d65-a490-375ea3d278a7)
 ## Table of Contents.
 - [Objective](#objective)
 - [Data Source](#data-source)
@@ -21,6 +21,7 @@
 	- [Findings](#findings)
 - [Recommendations](#recommendations)
 - [Conclusion](#conclusion)
+
 # Objective
 The Head of Marketing plans to run a campaign for the remainder of the year and seeks to identify the top YouTube channels to effectively reach end users. 
 - To achieve this objective
@@ -61,7 +62,8 @@ To understand what it should contain, we need to figure out what questions we ne
 6.	Which 3 channels have the highest subscriber engagement rate per video uploaded?
 ## Template
 - The final dashboard should look like 
-[*https://github.com/Ugondu/ugondu.github.io/blob/main/assets/images/dashboard_mockup.png*](https://github.com/Ugondu/ugondu.github.io/blob/main/assets/images/dashboard_mockup.png)
+![image](https://github.com/user-attachments/assets/465bb0aa-0bf6-4054-a996-84f3fbb878cd)
+
 -  The data visuals that may be appropriate and effective in answering our business questions:
 1. Table
 2. Treemap
@@ -143,7 +145,8 @@ FROM
 
 - What does the dashboard look like?
 
-[(https://github.com/Ugondu/ugondu.github.io/blob/main/assets/images/youtube%20dashboard.png)](https://github.com/Ugondu/ugondu.github.io/blob/main/assets/images/youtube%20dashboard.png)
+![image](https://github.com/user-attachments/assets/5f026720-55a7-461f-8f0b-6785c63a653b)
+
 
 This shows the top YouTubers for 2024 in the UK based on subscription, views, and videos uploaded. 
 ### Power BI DAX Measures
