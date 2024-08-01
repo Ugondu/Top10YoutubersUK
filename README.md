@@ -44,10 +44,7 @@ We need data on the top UK youtubers in 2024 that includes their.
 The data is sourced from Kaggle, the link can be found here  [see here to find it.](https://www.kaggle.com/datasets/bhavyadhingra00020/top-100-social-media-influencers-2024-countrywise?resource=download)
 # Data Processing Steps.
 -	Design
--	Development
--	Testing
--	Analysis
-
+-	Tools
 # Design
 ## Dashboard components required
 ### What should the dashboard contain based on the requirement provided?
