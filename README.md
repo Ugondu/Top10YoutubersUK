@@ -17,7 +17,6 @@
 	- [PowerBI DAX Measures](#powerbi-dax-measures)
 - [Analysis](#analysis)
 	- [Findings](#findings)
-	- [Validation](#validation)
 - [Recommendations](#recommendations)
 - [Conclusion](#conclusion)
 
