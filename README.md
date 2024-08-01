@@ -18,7 +18,6 @@
 - [Analysis](#analysis)
 	- [Findings](#findings)
 	- [Validation](#validation)
-	- [Findings](#findings)
 - [Recommendations](#recommendations)
 - [Conclusion](#conclusion)
 
