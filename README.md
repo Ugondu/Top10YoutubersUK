@@ -28,11 +28,15 @@ Create a dashboard that provides insight into the top UK YouTubers in 2024 to in
 * Total views
 * Total videos, and
 * Engagement metrics
+  
 This will guide the marketing team to make informed decisions about the best performing YouTube channels to collaborate with for their marketing campaigns.
+
 ## User story
 As the Head of Marketing, I want to use a dashboard that analyzes YouTube channel data in the UK. This dashboard should allow us to identify the top-performing channels based on metrics like subscriber base and average views. With this information, I can make informed decisions about which YouTubers are right to collaborate with, thereby maximizing the effectiveness of each marketing campaign.
+
 # Data source
 ### What data is needed to achieve our objective?
+
 We need data on the top UK youtubers in 2024 that includes their.
 * Channel names
 * Total subscribers
@@ -84,6 +88,7 @@ To understand what it should contain, we need to figure out what questions we ne
 6.	Visualise the cleaned dataset in Power BI
 7.	Generate the findings based on the insights
 8.	Document and publish on GitHub page.
+   
 ## Data exploration
 To prepare the dataset for analysis, we examine for errors, inconsistencies, whitespaces, and any other issues that may arise during data collection and entry.
 
@@ -91,10 +96,10 @@ To prepare the dataset for analysis, we examine for errors, inconsistencies, whi
 From the dataset it appears that the ‘channel_name’ column contains the channel ID which is separated by ‘@’ sign. 
 ### Data cleaning
 To refine and structure the dataset ready for exploratory data analysis, 
-*Extract the channel name from the first column
-*Remove columns not relevant to our analysis
-*Convert each column to the appropriate datatype
-*Remove null and blank columns.
+* Extract the channel name from the first column
+* Remove columns not relevant to our analysis
+* Convert each column to the appropriate datatype
+* Remove null and blank columns.
 ### Transform the data 
 ```sql
 /*
